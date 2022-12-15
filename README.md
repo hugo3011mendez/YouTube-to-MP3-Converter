@@ -3,4 +3,3 @@
 ## Used modules
 - PyTube
 - os_sys
-- ffmpeg-python
